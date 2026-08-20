@@ -20,35 +20,25 @@ class SankhadeepDas:
 ## Tech Stack
 
 ### Languages
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Python](https://shields.io)
+![Java](https://shields.io)
+![C](https://shields.io)
+![JavaScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 
 ### Core CS & Data Science
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![OOPS](https://shields.io)
+![Data Structures](https://shields.io)
+![Data Science](https://shields.io)
 
 ### Tools & Cloud
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Git](https://shields.io)
+![VS Code](https://shields.io)
 
 ## GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Your GitHub Activity Graph" width="100%" />
-  </a>
-</p>
+![Your GitHub Activity Graph](https://vercel.app)
 
 ## Skill Progress
 
