@@ -19,20 +19,26 @@ class SankhadeepDas:
 
 ## Tech Stack
 
-### Languages
-* **Python**
-* **Java**
-* **C**
-* **HTML5 / CSS3**
-
-### Core CS & Data Science
-* **Object-Oriented Programming (OOPS)**
-* **Data Structures & Algorithms**
-* **Data Science Fundamentals**
-
-### Tools
-* **Git & GitHub**
-* **VS Code**
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <code>Python</code> &nbsp; <code>Java</code> &nbsp; <code>C</code> &nbsp; <code>JavaScript</code> &nbsp; <code>HTML5</code> &nbsp; <code>CSS3</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Core CS</b></td>
+    <td>
+      <code>OOPS</code> &nbsp; <code>Data Structures & Algorithms</code> &nbsp; <code>Data Science Fundamentals</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & Cloud</b></td>
+    <td>
+      <code>Git & GitHub</code> &nbsp; <code>VS Code</code>
+    </td>
+  </tr>
+</table>
 
 ## Skill Progress
 
