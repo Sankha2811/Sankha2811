@@ -23,7 +23,6 @@ class SankhadeepDas:
 * **Python**
 * **Java**
 * **C**
-* **JavaScript**
 * **HTML5 / CSS3**
 
 ### Core CS & Data Science
