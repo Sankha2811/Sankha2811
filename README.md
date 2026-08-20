@@ -1,16 +1,61 @@
-## Hi there 👋
+## About Me
 
-<!--
-**Sankha2811/Sankha2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class SankhadeepDas:
+    def __init__(self):
+        self.name = "Sankhadeep Das"
+        self.handle = "@Sankha2811"
+        self.location = "Kolkata, West Bengal, India"
+        self.role = "Software Developer | Python Developer"
+        self.skills = [
+            "Python", 
+            "Java", 
+            "OOPS", 
+            "Data Structures", 
+            "Data Science"
+        ]
+        self.motto = "Building smart solutions with clean code."
+```
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+### Core CS & Data Science
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+### Tools & Cloud
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+## GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Your GitHub Activity Graph" width="100%" />
+  </a>
+</p>
+
+## Skill Progress
+
+```text
+Python                 ██████████████████████████░░░░░░  80%
+Data Science           ███████████████████░░░░░░░░░░░░░  60%
+Data Structures        ██████████████████░░░░░░░░░░░░░░  55%
+Java                   █████████████░░░░░░░░░░░░░░░░░░░  40%
+OOPS                   ███████████░░░░░░░░░░░░░░░░░░░░░  35%
+```
