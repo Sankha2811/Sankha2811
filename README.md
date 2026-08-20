@@ -20,25 +20,20 @@ class SankhadeepDas:
 ## Tech Stack
 
 ### Languages
-![Python](https://shields.io)
-![Java](https://shields.io)
-![C](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+* **Python**
+* **Java**
+* **C**
+* **JavaScript**
+* **HTML5 / CSS3**
 
 ### Core CS & Data Science
-![OOPS](https://shields.io)
-![Data Structures](https://shields.io)
-![Data Science](https://shields.io)
+* **Object-Oriented Programming (OOPS)**
+* **Data Structures & Algorithms**
+* **Data Science Fundamentals**
 
-### Tools & Cloud
-![Git](https://shields.io)
-![VS Code](https://shields.io)
-
-## GitHub Analytics
-
-![Your GitHub Activity Graph](https://vercel.app)
+### Tools
+* **Git & GitHub**
+* **VS Code**
 
 ## Skill Progress
 
