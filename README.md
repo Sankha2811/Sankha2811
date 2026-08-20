@@ -45,6 +45,7 @@ class SankhadeepDas:
   </tr>
 </table>
 
+<!--
 ## Skill Progress
 
 ```text
@@ -54,3 +55,4 @@ Data Structures        ██████████████████░
 Java                   █████████████░░░░░░░░░░░░░░░░░░░  40%
 OOPS                   ███████████░░░░░░░░░░░░░░░░░░░░░  35%
 ```
+-->
